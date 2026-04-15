@@ -64,8 +64,7 @@ Leverage data was not available in the dataset. Therefore, trade size (size USD)
 ## 🚀 How to Run
 
 1. Clone the repository:
-bash
-git clone https://github.com/your-username/trader-sentiment-analysis.git
+Download ipynb file/notebook
 
 2. Install dependencies:
 pip install pandas numpy matplotlib seaborn
@@ -74,11 +73,3 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 
 
-trader-sentiment-analysis/
-│
-├── Trading Analysis.ipynb
-├── README.md
-├── outputs/
-│   ├── pnl_vs_sentiment.png
-│   ├── trade_size_distribution.png
-│   ├── trades_count.png
